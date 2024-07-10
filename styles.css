@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.products {
+    display: flex;
+    background-color: rgb(167, 135, 30);
+    flex-wrap: wrap;
+}
+
+.container {
+    width: 80%;
+}
